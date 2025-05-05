@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/m-siles-branch-thinking-badge.png)](https://mseep.ai/app/m-siles-branch-thinking)
+
 # Branch Thinking
 
 An MCP server that implements branch-based thought navigation, with support for:
